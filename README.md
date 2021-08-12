@@ -9,6 +9,14 @@ O projeto está sendo elaborado na turma 26 do Bootcamp da Generation com os seg
  <a href="https://www.linkedin.com/in/fl%C3%A1via-antunes-8245b2179/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     </div>
     
+    
+## Gabriel Reis
+<div>
+  <a href="https://github.com/gabriel8514/" target="_blank"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
+ <a href="https://www.linkedin.com/in/gabriel-luiz-reis-498a64136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+    </div>
+  
+  
 ## João Pedro Basaglia
 <div>
   <a href="https://github.com/jotape00/" target="_blank"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
