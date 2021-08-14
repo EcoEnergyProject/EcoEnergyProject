@@ -16,14 +16,14 @@ O projeto está sendo elaborado na turma 26 do Bootcamp da Generation com os seg
     </div>
     
     
-## Gabriel Reis
+  ## Gabriel Reis
 <div>
   <a href="https://github.com/gabriel8514/" target="_blank"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
  <a href="https://www.linkedin.com/in/gabriel-luiz-reis-498a64136/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     </div>
   
-  
-    ## Guilherme Ferreira
+    
+  ## Guilherme Ferreira
 <div>
   <a href="https://github.com/miscildes/" target="_blank"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
  <a hrefhttps://www.linkedin.com/in/guilherme-ferreira-gillie-b9a719177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
