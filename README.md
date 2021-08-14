@@ -1,4 +1,4 @@
-## Olá visitante, sejam muito bem vindes!!
+## Olá visitantes, sejam muito bem vindes!!
 🌱 **EcoEnergy** ⚡ é um e-commerce de Consultoria Ambiental com foco na prestação de serviço energia de fonte renovavel 
 tendo 3 fontes de energia: Biogás, Eólica e Solar. Nosso intuito tornar cidades e comunidades mais sustentaveis contribuindo com projetos sociais e inclusão.
 
