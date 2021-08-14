@@ -26,7 +26,7 @@ O projeto está sendo elaborado na turma 26 do Bootcamp da Generation com os seg
   ## Guilherme Ferreira
 <div>
   <a href="https://github.com/miscildes/" target="_blank"><img src=https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white">
- <a hrefhttps://www.linkedin.com/in/guilherme-ferreira-gillie-b9a719177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+ <a href="https://www.linkedin.com/in/guilherme-ferreira-gillie-b9a719177/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
     </div>
     
 ## João Pedro Basaglia
